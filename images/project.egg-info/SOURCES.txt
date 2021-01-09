@@ -1,0 +1,14 @@
+setup.py
+images/__init__.py
+images/items.py
+images/json_.py
+images/middlewares.py
+images/pipelines.py
+images/settings.py
+images/spiders/__init__.py
+images/spiders/imagescraper.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
